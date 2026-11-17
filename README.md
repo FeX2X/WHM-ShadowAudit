@@ -11,7 +11,6 @@
 - 🌐 **URL Normalization:** Automatically handles HTTPS and WHM port `2087`.
 - 🔐 **HTTP Session Management:** Reuses HTTP sessions and TCP connections.
 - 📡 **Authentication Response Analysis:** Examines server responses to identify authentication outcomes.
-- 🎯 **Response Validation:** Checks for the `whm_zone_manager` response indicator.
 - ⏱️ **Configurable Timeout:** Controls request timeout duration.
 - 📊 **Live Statistics:** Displays checked, valid, invalid, and failed counts.
 - 💾 **Automatic Result Export:** Saves matching results to `whm_valid.txt`.
