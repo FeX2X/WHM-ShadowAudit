@@ -1,3 +1,5 @@
+<img width="1303" height="693" alt="image" src="https://github.com/user-attachments/assets/9556b83b-4859-4c96-adb5-e0467dbed39a" />
+
 # WHM-ShadowAudit
 🖥️ Advanced WHM authentication auditing toolkit built with Python. ⚡ Features multithreaded HTTP processing, session management, response validation, and real-time terminal statistics for authorized security assessments.
 
